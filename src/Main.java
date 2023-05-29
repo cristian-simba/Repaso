@@ -6,6 +6,7 @@ public class Main {
         spiderman.imprimir();
         up.imprimir();
         fastf.imprimir();
-        spiderman.getNombre();
+        System.out.println(spiderman.getNombre());
+        System.out.println(spiderman.getFechaEstreno());
     }
 }
