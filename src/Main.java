@@ -6,5 +6,6 @@ public class Main {
         spiderman.imprimir();
         up.imprimir();
         fastf.imprimir();
+        spiderman.getNombre();
     }
 }
