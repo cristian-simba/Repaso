@@ -8,5 +8,6 @@ public class Main {
         fastf.imprimir();
         System.out.println(spiderman.getNombre());
         System.out.println(spiderman.getFechaEstreno());
+        System.out.println('XD');
     }
 }
